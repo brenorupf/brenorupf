@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Oi! Eu sou o **Breno Rupf Reis**  
 
-<!--
-**brenorupf/brenorupf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Analista de Dados** com sólida bagagem em **Marketing** (quase 8 anos de experiência).  
+Essa vivência me tornou um profissional **analítico**, com **visão de negócio** e habilidade para lidar com diferentes stakeholders.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Skills**
+
+- **Business Intelligence:** Power BI (modelagem, DAX, criação e manutenção)  
+- **DataViz:** Storytelling, prototipagem de dashboards, boas práticas de UI/UX  
+- **Análise de Dados:** SQL, Python  
+
+---
+
+## 🌍 **Curiosidade**
+Já morei em **12 cidades** em **6 estados do Brasil** (ES, MG, BA, PE, PI e SP) e também em **Dublin, Irlanda**.  
+
+---
+
+## ❤️ **Interesses Pessoais**
+🎥 Cinema & séries  
+🎵 Música  
+✈️ Viagens  
+⚽ Futebol  
+
