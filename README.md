@@ -14,7 +14,7 @@ Essa vivência me tornou um profissional **analítico**, com **visão de negóci
 ---
 
 ## 🌍 **Curiosidade**
-Já morei em **12 cidades** em **6 estados do Brasil** (ES, MG, BA, PE, PI e SP) e também em **Dublin, Irlanda**.  
+Já morei em **13 cidades** em **6 estados do Brasil** (ES, MG, BA, PE, PI e SP) e também em **Dublin, Irlanda**.  
 
 ---
 
